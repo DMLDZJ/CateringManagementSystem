@@ -1,2 +1,2 @@
 # CateringManagementSystem
-大二下敷衍课设写的餐饮管理系统
+大二下课程设计 java + mysql
